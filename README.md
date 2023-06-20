@@ -15,4 +15,4 @@ without bias, and more importantly, be able to use data to better undestand the 
 This project is a live test-run of the Noteable plug-in to determine its strengths, weaknesses, limits, and potential - hope you enjoy!
 
 
-![alt text](https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png)
+![alt text]("C:\Users\19739\Pictures\Screenshots\Screenshot (1).png")
