@@ -13,3 +13,6 @@ ChatGPT is an increidble tool that has taken the world by storm. If it can use N
 without bias, and more importantly, be able to use data to better undestand the world. 
  
 This project is a live test-run of the Noteable plug-in to determine its strengths, weaknesses, limits, and potential - hope you enjoy!
+
+
+![alt text](https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png)
