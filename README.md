@@ -1,1 +1,1 @@
-# World-Economic-Outlook-April-2023-Analysis
+This repository explores data from the IMFs annual report using the Notable plug-in on ChatGPT4
